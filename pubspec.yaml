@@ -1,0 +1,59 @@
+name: e_comm
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get: ^3.25.6
+  google_sign_in: ^4.5.9
+  flutter_facebook_login: ^3.0.0
+  cupertino_icons: ^1.0.0
+  firebase_core: ^0.7.0
+  firebase_auth: ^0.20.1
+  cloud_firestore: ^0.16.0+1
+  sqflite: ^2.0.0+3
+  path: ^1.8.0
+  shared_preferences: ^2.0.5
+  flutter_svg: ^0.22.0
+  status_change: ^1.0.0
+  flutter_launcher_icons:
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/Logo.png"
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+     - assets/images/
+     - assets/images/menu_icon/
+     - assets/fonts/
+
+
+
+  fonts:
+    - family: SourceSans
+      fonts:
+        - asset: assets/fonts/SourceSansPro.ttf
+
+

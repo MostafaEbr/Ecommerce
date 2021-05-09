@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874207647474",
+    "project_id": "ecommerce-c3f61",
+    "storage_bucket": "ecommerce-c3f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874207647474:android:25c8f275989f8de8a7a26b",
+        "android_client_info": {
+          "package_name": "com.elbet.e_comm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874207647474-vir4uuq5bhr7eaaid4n9flhsjcuppt8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elbet.e_comm",
+            "certificate_hash": "8d6c7b481ec5a4b341e543ad553dea1b84f20db1"
+          }
+        },
+        {
+          "client_id": "874207647474-5k30c57hvc7slbegvoshgktout34cu8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHEkSK7k7ja-SRajHYoB0jEXJUk_p6TVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874207647474-5k30c57hvc7slbegvoshgktout34cu8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
